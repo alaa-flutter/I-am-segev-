@@ -2,6 +2,9 @@
 class Assets {
   Assets._();
 
+  static const String imagesAbsence = 'assets/images/absence.png';
+  static const String imagesUser = 'assets/images/user.png';
   static const String imagesWarningSign = 'assets/images/warning-sign.png';
+  static const String imagesWifi = 'assets/images/wifi.png';
 
 }
